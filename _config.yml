@@ -100,7 +100,8 @@ analytics:
 author:
   name             : "elbanic"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Engineer\nSearch Engine Developer"
+  bio              : "Data Engineer
+  Search Engine Developer"
   location         : "Mars"
   email            :
   uri              :
