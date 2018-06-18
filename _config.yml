@@ -253,6 +253,9 @@ compress_html:
   ignore:
     envs: development
 
+toc: true
+toc_lebel: "Table of Contents"
+toc_icon: "cog"
 
 # Defaults
 defaults:
