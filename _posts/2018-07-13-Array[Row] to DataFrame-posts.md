@@ -6,9 +6,6 @@ tags:
   - spark
 ---
 
-# Array[Row] to DataFrame
-
-#spark
 
 ```scala
 import sqlContext.implicits._
