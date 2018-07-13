@@ -1,14 +1,9 @@
 ---
-title: "test2"
+title: "Array[Row] to DataFrame"
 categories:
-  - Test
+  - spark
 tags:
-  - test
-  - minimal-mistakes
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
+  - spark
 ---
 
 # Array[Row] to DataFrame
