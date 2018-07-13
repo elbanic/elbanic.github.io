@@ -1,6 +1,19 @@
-\# Array[Row] to DataFrame
+---
+title: "test2"
+categories:
+  - Test
+tags:
+  - test
+  - minimal-mistakes
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
+---
 
-\#spark
+# Array[Row] to DataFrame
+
+#spark
 
 ```scala
 import sqlContext.implicits._
