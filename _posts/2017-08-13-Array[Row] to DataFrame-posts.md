@@ -1,11 +1,14 @@
 ---
 title: "Array[Row] to DataFrame"
 categories:
-  - spark
+  - scala
 tags:
-  - spark
+  - scala
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
-
 
 ```scala
 import sqlContext.implicits._
