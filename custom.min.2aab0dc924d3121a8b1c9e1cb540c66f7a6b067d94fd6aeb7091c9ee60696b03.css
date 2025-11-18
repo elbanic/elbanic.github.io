@@ -1,0 +1,1 @@
+.post-item{display:flex;justify-content:space-between;align-items:baseline;gap:1rem}.post-item-title{flex:1;min-width:0}.post-item-meta{flex-shrink:0;white-space:nowrap;min-width:fit-content}
