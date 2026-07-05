@@ -13,7 +13,7 @@ Your browser does not support the video tag.
 &lt;p&gt;&amp;ldquo;We fail every day, but that failure becomes the success of our next attempt.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id="failure-repeats"&gt;Failure Repeats&lt;/h3&gt;
-&lt;p&gt;A while back, I ran into a production incident.&lt;/p&gt;
+&lt;p&gt;A while back, I ran into an incident on a project I worked on.&lt;/p&gt;
 &lt;p&gt;An SQS-triggered Lambda handler processed a single event that spawned an excessive number of DynamoDB transactions in parallel. Eventually, the Lambda hit its timeout limit.&lt;/p&gt;</description></item><item><title>I Built an AI System Design Interviewer That Runs in My Mac Terminal</title><link>https://elbanic.github.io/posts/ai-system-design-interviewer-terminal/</link><pubDate>Mon, 09 Feb 2026 10:00:00 +0900</pubDate><guid>https://elbanic.github.io/posts/ai-system-design-interviewer-terminal/</guid><description>&lt;h2 id="recently-ive-been-noticing-something-strange"&gt;Recently, I&amp;rsquo;ve been noticing something strange.&lt;/h2&gt;
 &lt;p&gt;Developers around me are writing no code.&lt;/p&gt;
 &lt;p&gt;AI tools help with architecture, implementation, testing, documentation, and even debugging. In many workflows, developers are shifting from coding to directing.&lt;/p&gt;

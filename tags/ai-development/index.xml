@@ -13,7 +13,7 @@ Your browser does not support the video tag.
 &lt;p&gt;&amp;ldquo;We fail every day, but that failure becomes the success of our next attempt.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id="failure-repeats"&gt;Failure Repeats&lt;/h3&gt;
-&lt;p&gt;A while back, I ran into a production incident.&lt;/p&gt;
+&lt;p&gt;A while back, I ran into an incident on a project I worked on.&lt;/p&gt;
 &lt;p&gt;An SQS-triggered Lambda handler processed a single event that spawned an excessive number of DynamoDB transactions in parallel. Eventually, the Lambda hit its timeout limit.&lt;/p&gt;</description></item><item><title>Agentic Software Engineering (ASE): The Software Development Landscape is Shifting Again</title><link>https://elbanic.github.io/posts/agent-driven-development/</link><pubDate>Mon, 17 Nov 2025 10:00:00 +0900</pubDate><guid>https://elbanic.github.io/posts/agent-driven-development/</guid><description>&lt;p&gt;&lt;img src="https://elbanic.github.io/images/AI_Generated_Image.png" alt="AI-generated visualization of agent-driven development showing the evolution of software development paradigms"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This is a picture drawn by AI&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id="agentic-software-engineering-ase-the-software-development-landscape-is-shifting-again"&gt;Agentic Software Engineering (ASE): The Software Development Landscape is Shifting Again&lt;/h2&gt;
