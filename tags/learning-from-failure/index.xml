@@ -7,5 +7,5 @@ Your browser does not support the video tag.
 &lt;p&gt;&amp;ldquo;We fail every day, but that failure becomes the success of our next attempt.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id="failure-repeats"&gt;Failure Repeats&lt;/h3&gt;
-&lt;p&gt;Not long ago, a production incident occurred in a service I operate.&lt;/p&gt;
+&lt;p&gt;A while back, I ran into a production incident.&lt;/p&gt;
 &lt;p&gt;An SQS-triggered Lambda handler processed a single event that spawned an excessive number of DynamoDB transactions in parallel. Eventually, the Lambda hit its timeout limit.&lt;/p&gt;</description></item></channel></rss>
